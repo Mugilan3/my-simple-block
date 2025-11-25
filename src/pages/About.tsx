@@ -16,7 +16,7 @@ const About = () => {
 
           <div className="prose prose-lg max-w-none">
             <p className="text-xl text-muted-foreground leading-relaxed">
-              Hi there! I'm a passionate web developer who loves building beautiful and functional 
+              Hi there! I'm Mugilan R a passionate web developer who loves building beautiful and functional 
               applications. This blog is my digital garden where I document my learning journey, 
               share insights, and connect with fellow developers.
             </p>

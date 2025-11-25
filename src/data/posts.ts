@@ -32,7 +32,7 @@ In future posts, I'll be covering:
 Thank you for joining me on this journey. Stay tuned for more content!
     `,
     category: "Personal",
-    date: "2024-01-15",
+    date: "2025-11-03",
   },
   {
     slug: "learning-nextjs",
@@ -70,7 +70,7 @@ Like any new technology, Next.js came with its learning curve. But the documenta
 Looking forward to building more with Next.js!
     `,
     category: "Tutorial",
-    date: "2024-02-10",
+    date: "2025-11-15",
   },
   {
     slug: "tailwind-tips",
@@ -141,6 +141,6 @@ Mobile-first responsive design is intuitive with Tailwind:
 These tips have made my development process much faster and more enjoyable. Happy styling!
     `,
     category: "Tutorial",
-    date: "2024-03-05",
+    date: "2025-11-10",
   },
 ];
